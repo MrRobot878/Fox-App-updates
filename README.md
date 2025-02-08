@@ -7,16 +7,24 @@ This tool allows users to scan multiple MAC addresses, retrieve authentication t
 
 🚀 Features
 ✔️ Bulk MAC Scanning – Scan multiple MAC addresses at once for valid access.
+
 ✔️ Random MAC Generator – Generate and test randomized MAC addresses.
+
 ✔️ Token Extraction – Retrieve authentication tokens upon successful authentication.
+
 ✔️ Expiry & Channel Count – Check subscription expiry date and total available channels.
+
 ✔️ Automated Requests – Sends multiple requests in sequence for efficiency.
+
 ✔️ User-Friendly Logs – Displays results in a selectable text format for easy copying.
 
 🛠 How It Works
 Enter your IPTV portal URL in the provided field.
+
 Input a list of MAC addresses or use the random scan feature.
+
 Click "Start Scan" to begin the process.
+
 The app will send requests, extract valid tokens, fetch expiry details, and display the total available channels for each successful login.
 Results are logged in a readable format in the app.
 
