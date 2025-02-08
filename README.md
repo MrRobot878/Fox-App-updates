@@ -6,6 +6,7 @@ This tool allows users to scan multiple MAC addresses, retrieve authentication t
 ⚠️ Disclaimer: This tool is intended for security testing and auditing only. The developer is not responsible for any misuse. Please use it only on servers you own or have explicit permission to test.
 
 🚀 Features
+
 ✔️ Bulk MAC Scanning – Scan multiple MAC addresses at once for valid access.
 
 ✔️ Random MAC Generator – Generate and test randomized MAC addresses.
@@ -19,6 +20,7 @@ This tool allows users to scan multiple MAC addresses, retrieve authentication t
 ✔️ User-Friendly Logs – Displays results in a selectable text format for easy copying.
 
 🛠 How It Works
+
 Enter your IPTV portal URL in the provided field.
 
 Input a list of MAC addresses or use the random scan feature.
